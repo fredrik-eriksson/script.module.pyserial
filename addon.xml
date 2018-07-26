@@ -2,7 +2,7 @@
 <addon id="script.module.pyserial"
        name="pyserial"
        version="3.4.0"
-       provider-name="feffe">
+       provider-name="Chris Liechti">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
   </requires>
